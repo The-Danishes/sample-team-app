@@ -1,12 +1,16 @@
 Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  
+  get "/stuffs", to: "stuffs#home"
 
-<<<<<<< HEAD
 
   get '/index', to: "first_tests#index"
-=======
   get "/", to: "pages#home"
+
+  get "/people", to: "people#index"
+
   get "/show", to: "pages#show"
 
->>>>>>> 6d2c188422ef2686f6baf60e33d51b82ab3829cf
+  get "/people/show", to: "people#show"
+
 end
