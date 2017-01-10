@@ -1,5 +1,8 @@
 # README
 
+Mark and Jonathan was here
+now John is here 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -24,5 +27,7 @@ Things you may want to cover:
 * ...
 
 
+
+Jake
 Danish was here too!
 Mark wasn't here, but John & Jonathan were.
