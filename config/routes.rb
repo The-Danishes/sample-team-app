@@ -10,6 +10,8 @@ Rails.application.routes.draw do
   get "/people", to: "people#index"
 
   get "/show", to: "pages#show"
+  get "/index", to: "minions#index"
+  get "/show", to: "minions#show"
 
   get "/people/show", to: "people#show"
 
