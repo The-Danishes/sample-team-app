@@ -15,4 +15,8 @@ Rails.application.routes.draw do
 
   get "/people/show", to: "people#show"
 
+  get "/index", to: "pages#index"
+
+  get "/indexes", to: "sheets#index"
+
 end
