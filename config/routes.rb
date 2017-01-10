@@ -3,6 +3,8 @@ Rails.application.routes.draw do
   
   get "/stuffs", to: "stuffs#home"
 
+
+  get '/index', to: "first_tests#index"
   get "/", to: "pages#home"
 
   get "/people", to: "people#index"
