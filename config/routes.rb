@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   get '/index', to: "first_tests#index"
 =======
   get "/", to: "pages#home"
+  get "/show", to: "pages#show"
 
 >>>>>>> 6d2c188422ef2686f6baf60e33d51b82ab3829cf
 end
