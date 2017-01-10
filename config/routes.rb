@@ -5,5 +5,7 @@ Rails.application.routes.draw do
 
   get "/", to: "pages#home"
   get "/show", to: "pages#show"
+  get "/index", to: "minions#index"
+  get "/show", to: "minions#show"
 
 end
