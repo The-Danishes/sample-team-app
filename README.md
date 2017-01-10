@@ -23,4 +23,6 @@ Things you may want to cover:
 
 * ...
 
-Gage Wisneski was here
+Danish was here too!
+Mark wasn't here, but John & Jonathan were.
+

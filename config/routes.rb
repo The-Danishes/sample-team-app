@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
-  get "/", to: "stuffs#home"
+  
+  get "/stuffs", to: "stuffs#home"
+
+  get "/", to: "pages#home"
+
 end
