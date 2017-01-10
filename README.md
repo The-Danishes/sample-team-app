@@ -25,3 +25,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Danish was here too!
+Mark wasn't here, but John & Jonathan were.
+
