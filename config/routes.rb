@@ -4,6 +4,11 @@ Rails.application.routes.draw do
   get "/stuffs", to: "stuffs#home"
 
   get "/", to: "pages#home"
+
+  get "/people", to: "people#index"
+
   get "/show", to: "pages#show"
+
+  get "/people/show", to: "people#show"
 
 end

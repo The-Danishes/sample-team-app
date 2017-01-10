@@ -1,0 +1,2 @@
+class Shroff < ApplicationRecord
+end
